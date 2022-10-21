@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Goyal</h1>
 <h3 align="center">A passionate Software Development Engineer in Test from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“![image](https://user-images.githubusercontent.com/48632755/196967244-0e935155-b0ea-4d2e-8cff-2417b632f289.png)>
+<img align=“right” alt=“coding” width=“400” src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv452&label=Profile%20views&color=0e75b6&style=flat" alt="shiv452" /> </p>
 
