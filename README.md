@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv452&label=Profile%20views&color=0e75b6&style=flat" alt="shiv452" /> </p>
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://shiv452.github.io/portfoliowebsite/](https://shiv452.github.io/portfoliowebsite/)
 
