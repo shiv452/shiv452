@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shivamgoyal452" target="blank"><img align="center" src="https://img.icons8.com/ios/50/null/codepen.png" height="30" width="40" /></a>
+<a href="https://codepen.io/shivamgoyal452" target="blank"><img align="center" src="https://img.icons8.com/ios/50/FFFFFF/codepen.png" alt="shivamgoyal452" height="30" width="40"></a>
 <a href="https://www.linkedin.com/in/shivam-goyal-0a0270188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam goyal" height="30" width="40" /></a>
 <a href="https://instagram.com/shivamgoyal452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamgoyal452" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCljwr82bv6rJItmOI7TwD5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ekjourney" height="30" width="40" /></a>
