@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Goyal</h1>
 
-<h3 align="center">A passionate Software Development Engineer in Test from India</h3>
-
-<img src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" title="Animation"/>
+<h3 align="center">A passionate Software Tester Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv452&label=Profile%20views&color=0e75b6&style=flat" alt="shiv452" /> </p>
 
