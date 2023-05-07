@@ -17,10 +17,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shivamgoyal452" target="blank"><img align="center" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" alt="shivamgoyal452" height="30" width="40"></a>
+  <!--CODE PEN-->
+<a href="https://codepen.io/shivamgoyal452" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FF80F9/codepen.png" alt="shivamgoyal452" height="30" width="40"></a>
+  <!--Linkedin-->
 <a href="https://www.linkedin.com/in/shivam-goyal-0a0270188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam goyal" height="30" width="40" /></a>
+  <!--instagram-->
 <a href="https://instagram.com/shivamgoyal452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamgoyal452" height="30" width="40" /></a>
+  <!--Youtube Channel-->
 <a href="https://www.youtube.com/channel/UCljwr82bv6rJItmOI7TwD5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ekjourney" height="30" width="40" /></a>
+  <!--Hacker Rank-->
 <a href="https://www.hackerrank.com/shivamgoyal452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamgoyal452" height="30" width="40" /></a>
 </p>
 
