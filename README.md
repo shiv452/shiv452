@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://shiv452.github.io/portfoliowebsite/](https://shiv452.github.io/portfoliowebsite/)
+- 👨‍💻 All of my projects are available at [https://shiv452.github.io/portfoliowebsite/](https://shiv452.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5024565020563309324?tab=rj](https://www.blogger.com/blog/posts/5024565020563309324?tab=rj)
 
